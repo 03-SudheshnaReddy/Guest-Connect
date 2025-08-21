@@ -1,6 +1,6 @@
-# Guest Connect
+# Expert Invite
 
-Guest Connect is an event management platform designed to simplify the process of inviting industry experts to events. It enables event hosts to submit detailed invitation requests, manage logistics, and process payments for services like transport and accommodation. Admins can oversee requests, coordinate with experts, and handle invoicing, while experts can view and respond to invitations, manage their availability, and participate in events.
+Expert Invite is an event management platform designed to simplify the process of inviting industry experts to events. It enables event hosts to submit detailed invitation requests, manage logistics, and process payments for services like transport and accommodation. Admins can oversee requests, coordinate with experts, and handle invoicing, while experts can view and respond to invitations, manage their availability, and participate in events.
 
 ## Features
 
