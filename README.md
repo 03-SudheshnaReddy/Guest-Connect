@@ -25,7 +25,7 @@ Make sure you have the following installed:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/03-SudheshnaReddy/Guest-Connect.git
+    git clone https://github.com/03-SudheshnaReddy/Expert-Invite.git
     ```
    
 2. **Navigate to the Project Directory**:
