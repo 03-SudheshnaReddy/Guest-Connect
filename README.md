@@ -58,5 +58,7 @@ Make sure you have the following installed:
 5. **Open in Browser**:  
    Visit [http://localhost:3000](http://localhost:3000) to see the application. Next.js hot-reloading will reflect any code changes.
 
+NOTE: The MongoDB URI in the code is a dummy/test key, not a valid credential.
 ---
+
 
